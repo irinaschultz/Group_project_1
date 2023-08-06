@@ -1,0 +1,25 @@
+Long Term Condition,Sex,Need Assistance,No Assistance,Not stated,Total By Assistance
+Arthritis,Male,154778,626940,8337,790053
+Asthma,Male,80262,822180,6964,909407
+Cancer,Male,71390,275073,3472,349930
+Dementia,Male,61589,13947,2621,78154
+Diabetes,Male,119931,527096,6574,653595
+Heart disease,Male,130359,468132,6603,605094
+Kidney disease,Male,38783,79023,1470,119271
+Lung condition,Male,65843,144883,2575,213301
+Mental health condition,Male,196421,668330,7778,872532
+Stroke,Male,54758,70711,1819,127292
+No long-term health condition,Male,77932,7621001,59014,7757945
+Not stated,Male,16670,366541,699368,1082583
+Arthritis,Female,310050,1035446,14841,1360338
+Asthma,Female,125606,1023673,9331,1158613
+Cancer,Female,78681,299688,3853,382225
+Dementia,Female,93298,13354,4352,111003
+Diabetes,Female,131448,407599,6071,545121
+Heart disease,Female,130979,257453,5573,394002
+Kidney disease,Female,42592,68193,1715,112506
+Lung condition,Female,74896,150030,2887,227809
+Mental health condition,Female,233132,1114471,11410,1359011
+Stroke,Female,53663,51927,1731,107317
+No long-term health condition,Female,63935,7414700,56132,7534773
+Not stated,Female,15490,362601,605578,983670
